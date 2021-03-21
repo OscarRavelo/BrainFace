@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/BrainFace/static/css/main.021b576e.chunk.css",
-    "main.js": "/BrainFace/static/js/main.bf5d2e23.chunk.js",
-    "main.js.map": "/BrainFace/static/js/main.bf5d2e23.chunk.js.map",
+    "main.js": "/BrainFace/static/js/main.658b8aee.chunk.js",
+    "main.js.map": "/BrainFace/static/js/main.658b8aee.chunk.js.map",
     "runtime-main.js": "/BrainFace/static/js/runtime-main.96c2c7c4.js",
     "runtime-main.js.map": "/BrainFace/static/js/runtime-main.96c2c7c4.js.map",
     "static/css/2.fe359a49.chunk.css": "/BrainFace/static/css/2.fe359a49.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.fe359a49.chunk.css",
     "static/js/2.ab364651.chunk.js",
     "static/css/main.021b576e.chunk.css",
-    "static/js/main.bf5d2e23.chunk.js"
+    "static/js/main.658b8aee.chunk.js"
   ]
 }
