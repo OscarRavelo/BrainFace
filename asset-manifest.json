@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/BrainFace/static/css/main.021b576e.chunk.css",
+    "main.js": "/BrainFace/static/js/main.532ec655.chunk.js",
+    "main.js.map": "/BrainFace/static/js/main.532ec655.chunk.js.map",
+    "runtime-main.js": "/BrainFace/static/js/runtime-main.96c2c7c4.js",
+    "runtime-main.js.map": "/BrainFace/static/js/runtime-main.96c2c7c4.js.map",
+    "static/css/2.fe359a49.chunk.css": "/BrainFace/static/css/2.fe359a49.chunk.css",
+    "static/js/2.ab364651.chunk.js": "/BrainFace/static/js/2.ab364651.chunk.js",
+    "static/js/2.ab364651.chunk.js.map": "/BrainFace/static/js/2.ab364651.chunk.js.map",
+    "static/js/3.b115a355.chunk.js": "/BrainFace/static/js/3.b115a355.chunk.js",
+    "static/js/3.b115a355.chunk.js.map": "/BrainFace/static/js/3.b115a355.chunk.js.map",
+    "index.html": "/BrainFace/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/BrainFace/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.021b576e.chunk.css.map": "/BrainFace/static/css/main.021b576e.chunk.css.map",
+    "static/js/2.ab364651.chunk.js.LICENSE.txt": "/BrainFace/static/js/2.ab364651.chunk.js.LICENSE.txt",
+    "static/media/brain.b6394610.png": "/BrainFace/static/media/brain.b6394610.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96c2c7c4.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.ab364651.chunk.js",
+    "static/css/main.021b576e.chunk.css",
+    "static/js/main.532ec655.chunk.js"
+  ]
+}
